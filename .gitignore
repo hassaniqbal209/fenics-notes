@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+notebooks/ns_system/*.vtu
+notebooks/ns_system/*.pvd
+
+notebooks/reaction_system/*.vtu
+notebooks/reaction_system/*.pvd
+notebooks/.DS_Store
+.DS_Store
